@@ -12,17 +12,17 @@ Word Corrector is a simple JavaScript utility that takes an array of words and a
 
 Clone the repository:
 
-\`\`\`bash
+```bash
 git clone https://github.com/NeguinDev/word-corrector.git
-\`\`\`
+```
 
 ## Usage
 
 Run the script:
 
-\`\`\`bash
+```bash
 node index.js
-\`\`\`
+```
 
 ## Features
 
